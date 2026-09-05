@@ -23,7 +23,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", type=Path, default=Path("runs/predict/custom"))
     parser.add_argument("--conf", type=float, default=0.25)
     parser.add_argument("--iou", type=float, default=0.5)
-    parser.add_argument("--device", type=str, default="0")
+    parser.add_argument("--device", type=str, default="mps")
     parser.add_argument("--batch", type=int, default=16)
     return parser.parse_args()
 

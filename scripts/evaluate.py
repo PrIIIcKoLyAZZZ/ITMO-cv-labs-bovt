@@ -13,7 +13,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--data", type=Path, default=Path("data/processed/svhn_yolo/dataset.yaml"))
     parser.add_argument("--conf", type=float, default=0.25)
     parser.add_argument("--iou", type=float, default=0.5)
-    parser.add_argument("--device", type=str, default="0")
+    parser.add_argument("--device", type=str, default="mps")
     parser.add_argument("--predict-batch", type=int, default=32, help="Batch size for custom IoU/precision/recall pass.")
     parser.add_argument("--output-json", type=Path, default=Path("runs/eval/test_metrics.json"))
     return parser.parse_args()
