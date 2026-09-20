@@ -1,0 +1,11 @@
+image_name,predicted_pixels,mask_path,overlay_path
+img.png,0,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img.png
+img_1.png,52243,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_1.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_1.png
+img_2.png,179671,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_2.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_2.png
+img_3.png,19823,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_3.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_3.png
+img_4.png,16723,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_4.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_4.png
+img_5.png,36472,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_5.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_5.png
+img_6.png,3765,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_6.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_6.png
+img_7.png,25804,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_7.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_7.png
+img_8.png,72058,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_8.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_8.png
+img_9.png,10717,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/predicted_masks/img_9.png,/Users/maxim-bovt/PycharmProjects/CV/ITMO-cv-labs-bovt/reports/custom/overlays/img_9.png
